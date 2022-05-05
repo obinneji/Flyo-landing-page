@@ -46,29 +46,10 @@ Users should be able to:
 
 Embarking on this project helped sharpen my skill and understanding of CSS framework(Bootstrap). I learnt major concept in bootstrap which include it grid system,flex properties(d-flex),containers and lot more. 
 
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Would continue to work on the styling of this project most especially the  page background styling. will also database to store email address of eamil subscribers.
 
 **Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
