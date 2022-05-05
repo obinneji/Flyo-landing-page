@@ -44,7 +44,7 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Embarking on this project helped sharpen my skill and understanding of CSS framework(Bootstrap). I learnt major concept in bootstrap which include it grid system,flex properties(d-flex),containers and lot more. 
 
 To see how you can add code snippets, see below:
 
